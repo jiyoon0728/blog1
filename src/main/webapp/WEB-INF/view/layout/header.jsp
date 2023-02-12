@@ -46,7 +46,7 @@
                             </li>
                         </ul>
                         <div>
-                            <a href="/user/profileUpdate"><img src="/images/profile.jfif" style="width: 35px;"
+                            <a href="/user/profileUpdate"><img src="/images/1.png" style="width: 35px;"
                                     class="rounded-circle" alt="Cinque Terre"></a>
                         </div>
                     </div>
